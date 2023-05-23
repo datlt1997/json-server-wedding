@@ -1,0 +1,56 @@
+{
+  "invite": [{
+    "id": 1,
+    "name": "nam",
+    "name_vn": "Nam",
+    "position": "Em",
+    "full_name": "Nguyễn Viết Nam",
+    "status": true,
+    "participate": false,
+    "wish": ""
+  }, {
+    "id": 2,
+    "name": "ky",
+    "name_vn": "Kỳ",
+    "position": "Em",
+    "full_name": "Võ Cao Kỳ",
+    "status": true,
+    "participate": false,
+    "wish": ""
+  }, {
+    "id": 3,
+    "name": "nhut",
+    "name_vn": "Nhựt",
+    "position": "Anh",
+    "full_name": "Nguyễn Minh Nhựt",
+    "status": true,
+    "participate": false,
+    "wish": ""
+  }, {
+    "id": 4,
+    "name": "test",
+    "full_name": "test test",
+    "position": "Bạn",
+    "status": false,
+    "participate": false,
+    "wish": ""
+  }],
+  "address": [
+    {
+      "title":"Lễ Vu Quy",
+      "location":"Đà Nẵng",
+      "time": "17:00 Thứ 7, Ngày 17 Tháng 6 Năm 2023",
+      "description": "456 Nguyễn Tri Phương, Hòa Thuận Đông, Hải Châu, Đà Nẵng",
+      "image": "https://i.ibb.co/NTyFxbh/address1.jpg",
+      "map": "https://www.google.com/maps/dir//Trung+t%C3%A2m+H%E1%BB%99i+ngh%E1%BB%8B%26Ti%E1%BB%87c+c%C6%B0%E1%BB%9Bi+Minh+Ch%C3%A2u+Vi%E1%BB%87t,+456+Nguy%E1%BB%85n+Tri+Ph%C6%B0%C6%A1ng,+H%C3%B2a+Thu%E1%BA%ADn+%C4%90%C3%B4ng,+H%E1%BA%A3i+Ch%C3%A2u,+%C4%90%C3%A0+N%E1%BA%B5ng+550000,+Vi%E1%BB%87t+Nam/@16.0510026,108.2093229,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x314219b85cefa3f5:0xf3ebcf4b0fde40a8!2m2!1d108.2118978!2d16.0509975!3e0?hl=vi-VN"
+    },
+    {
+      "title":"Lễ Thành Hôn",
+      "location":"Quảng Nam",
+      "time": "11:00 Chủ Nhật, Ngày 25 Tháng 6 Năm 2023",
+      "description": "229 Điện Biên Phủ, Duy Phước, Duy Xuyên, Quảng Nam",
+      "image": "https://i.ibb.co/2hWBVHR/address2.png",
+      "map": "https://www.google.com/maps/dir//229+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7,+Duy+Ph%C6%B0%E1%BB%9Bc,+Duy+Xuy%C3%AAn,+Qu%E1%BA%A3ng+Nam,+Vi%E1%BB%87t+Nam/@15.8391866,108.2819275,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x31420f29eec4928b:0x4d482edbd2db742b!2m2!1d108.2845024!2d15.8391815!3e0?hl=vi-VN"
+    }
+  ]
+}
